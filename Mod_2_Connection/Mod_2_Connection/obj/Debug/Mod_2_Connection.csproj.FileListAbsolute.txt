@@ -1,0 +1,7 @@
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_2_Connection\Mod_2_Connection\bin\Debug\Mod_2_Connection.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_2_Connection\Mod_2_Connection\bin\Debug\Mod_2_Connection.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_2_Connection\Mod_2_Connection\bin\Debug\Mod_2_Connection.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_2_Connection\Mod_2_Connection\obj\Debug\Mod_2_Connection.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_2_Connection\Mod_2_Connection\obj\Debug\Mod_2_Connection.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_2_Connection\Mod_2_Connection\obj\Debug\Mod_2_Connection.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_2_Connection\Mod_2_Connection\obj\Debug\Mod_2_Connection.pdb
