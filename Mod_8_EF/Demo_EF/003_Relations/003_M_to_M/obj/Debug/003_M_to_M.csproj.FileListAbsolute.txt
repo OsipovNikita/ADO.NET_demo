@@ -1,0 +1,24 @@
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\bin\Debug\003_M_to_M.exe.config
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\bin\Debug\003_M_to_M.exe
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\bin\Debug\003_M_to_M.pdb
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.exe
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\003_M_to_M\bin\Debug\003_M_to_M.exe.config
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.exe
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\bin\Debug\003_M_to_M.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\bin\Debug\003_M_to_M.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\bin\Debug\003_M_to_M.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\bin\Debug\EntityFramework.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\bin\Debug\EntityFramework.SqlServer.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\bin\Debug\EntityFramework.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\bin\Debug\EntityFramework.SqlServer.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\003_M_to_M\obj\Debug\003_M_to_M.pdb

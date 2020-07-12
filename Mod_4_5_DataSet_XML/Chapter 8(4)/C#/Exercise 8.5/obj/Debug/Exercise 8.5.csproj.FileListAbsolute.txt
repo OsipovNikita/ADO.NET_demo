@@ -1,0 +1,21 @@
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.exe
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.pdb
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\Exercise 8.5.exe
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\Exercise 8.5.pdb
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\CreateDataSet.dll
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\CreateDataSet.pdb
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.csprojResolveAssemblyReference.cache
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise_8_5.Properties.Resources.resources
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.csproj.GenerateResource.Cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\Exercise 8.5.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\Exercise 8.5.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\Exercise 8.5.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\CreateDataSet.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\bin\Debug\CreateDataSet.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise_8_5.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\Exercise 8.5\obj\Debug\Exercise 8.5.pdb

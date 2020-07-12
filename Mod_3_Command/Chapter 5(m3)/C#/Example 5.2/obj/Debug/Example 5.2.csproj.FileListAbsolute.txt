@@ -1,0 +1,17 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\bin\Debug\Example 5.2.exe.config
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\bin\Debug\Example 5.2.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\bin\Debug\Example 5.2.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\obj\Debug\Example_5_2.Properties.Resources.resources
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\obj\Debug\Example 5.2.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.2\obj\Debug\Example 5.2.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.2\bin\Debug\Example 5.2.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.2\bin\Debug\Example 5.2.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.2\bin\Debug\Example 5.2.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.2\obj\Debug\Example_5_2.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.2\obj\Debug\Example 5.2.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.2\obj\Debug\Example 5.2.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.2\obj\Debug\Example 5.2.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.2\obj\Debug\Example 5.2.pdb

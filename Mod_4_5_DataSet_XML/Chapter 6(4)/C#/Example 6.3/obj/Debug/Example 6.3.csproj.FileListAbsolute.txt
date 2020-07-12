@@ -1,0 +1,24 @@
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\bin\Debug\Example 6.3.exe
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\bin\Debug\Example 6.3.pdb
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\ResolveAssemblyReference.cache
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example_6_3.Properties.Resources.resources
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.exe
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.pdb
+F:\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.exe
+F:\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.pdb
+F:\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\bin\Debug\Example 6.3.exe
+F:\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\bin\Debug\Example 6.3.pdb
+F:\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.csprojResolveAssemblyReference.cache
+F:\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example_6_3.Properties.Resources.resources
+F:\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.csproj.GenerateResource.Cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\bin\Debug\Example 6.3.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\bin\Debug\Example 6.3.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\bin\Debug\Example 6.3.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example_6_3.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.3\obj\Debug\Example 6.3.pdb

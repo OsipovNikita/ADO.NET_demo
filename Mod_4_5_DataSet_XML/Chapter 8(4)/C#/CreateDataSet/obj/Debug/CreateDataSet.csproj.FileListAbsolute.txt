@@ -1,0 +1,15 @@
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\CreateDataSet\bin\Debug\CreateDataSet.dll
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\CreateDataSet\bin\Debug\CreateDataSet.pdb
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.csprojResolveAssemblyReference.cache
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.Properties.Resources.resources
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.csproj.GenerateResource.Cache
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.dll
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\CreateDataSet\bin\Debug\CreateDataSet.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\CreateDataSet\bin\Debug\CreateDataSet.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\CreateDataSet\obj\Debug\CreateDataSet.pdb

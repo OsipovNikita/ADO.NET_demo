@@ -1,0 +1,18 @@
+F:\ADOnetMy\demo_my\m4\WorkingWithDataTablesCS\WorkingWithDataTablesCS\bin\Debug\WorkingWithDataTablesCS.exe
+F:\ADOnetMy\demo_my\m4\WorkingWithDataTablesCS\WorkingWithDataTablesCS\bin\Debug\WorkingWithDataTablesCS.pdb
+F:\ADOnetMy\demo_my\m4\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.csprojResolveAssemblyReference.cache
+F:\ADOnetMy\demo_my\m4\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.Form1.resources
+F:\ADOnetMy\demo_my\m4\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.Properties.Resources.resources
+F:\ADOnetMy\demo_my\m4\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.csproj.GenerateResource.Cache
+F:\ADOnetMy\demo_my\m4\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.exe
+F:\ADOnetMy\demo_my\m4\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\bin\Debug\WorkingWithDataTablesCS.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.Form1.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.csproj.GenerateResource.Cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\bin\Debug\WorkingWithDataTablesCS.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\bin\Debug\WorkingWithDataTablesCS.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\WorkingWithDataTablesCS\WorkingWithDataTablesCS\obj\Debug\WorkingWithDataTablesCS.csproj.CoreCompileInputs.cache

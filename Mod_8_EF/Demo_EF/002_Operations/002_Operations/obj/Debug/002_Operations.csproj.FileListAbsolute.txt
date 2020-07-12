@@ -1,0 +1,54 @@
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\bin\Debug\002_Operations.exe.config
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\bin\Debug\002_Operations.exe
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\bin\Debug\002_Operations.pdb
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\obj\Debug\002_Operations.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\obj\Debug\_002_Operations.Form1.resources
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\obj\Debug\_002_Operations.Properties.Resources.resources
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\obj\Debug\002_Operations.csproj.GenerateResource.Cache
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\obj\Debug\002_Operations.exe
+C:\Users\Nazar\Desktop\002_Operations\002_Operations\obj\Debug\002_Operations.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\bin\Debug\002_Operations.exe.config
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\obj\Debug\002_Operations.exe
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\obj\Debug\002_Operations.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\bin\Debug\002_Operations.exe
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\bin\Debug\002_Operations.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\obj\Debug\002_Operations.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\obj\Debug\_002_Operations.Form1.resources
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\obj\Debug\_002_Operations.Properties.Resources.resources
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\002_Operations\002_Operations\obj\Debug\002_Operations.csproj.GenerateResource.Cache
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\bin\Debug\002_Operations.exe.config
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.exe
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.pdb
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\bin\Debug\002_Operations.exe
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\bin\Debug\002_Operations.pdb
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\bin\Debug\EntityFramework.dll
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\bin\Debug\EntityFramework.xml
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.csprojResolveAssemblyReference.cache
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\obj\Debug\_002_Operations.Form1.resources
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\obj\Debug\_002_Operations.Properties.Resources.resources
+C:\Users\bayes\Desktop\ADO.net\demo_my\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.csproj.GenerateResource.Cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\bin\Debug\002_Operations.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\bin\Debug\002_Operations.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\bin\Debug\002_Operations.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\bin\Debug\EntityFramework.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\bin\Debug\EntityFramework.SqlServer.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\bin\Debug\EntityFramework.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\bin\Debug\EntityFramework.SqlServer.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\obj\Debug\_002_Operations.Form1.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\obj\Debug\_002_Operations.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\002_Operations\002_Operations\obj\Debug\002_Operations.pdb

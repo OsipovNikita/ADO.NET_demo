@@ -1,0 +1,9 @@
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe.config
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\EntityFramework.dll
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\EntityFramework.xml
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csprojResolveAssemblyReference.cache
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\obj\Debug\DataBaseFirst.exe
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\obj\Debug\DataBaseFirst.pdb

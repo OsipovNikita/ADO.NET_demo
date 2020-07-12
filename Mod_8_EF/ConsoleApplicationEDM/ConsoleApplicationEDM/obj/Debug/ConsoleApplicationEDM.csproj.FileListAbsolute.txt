@@ -1,0 +1,52 @@
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe.config
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.pdb
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.dll
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.xml
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.csprojResolveAssemblyReference.cache
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.exe
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.pdb
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe.config
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.exe
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.pdb
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.pdb
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.dll
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.xml
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bayes\Desktop\ADO.NET_курс\demo_my\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.csprojResolveAssemblyReference.cache
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe.config
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.exe
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.pdb
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.pdb
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.dll
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.xml
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bayes\Desktop\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.csprojResolveAssemblyReference.cache
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe.config
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.exe
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.pdb
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.pdb
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.dll
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.xml
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bayes\Desktop\ADO_\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.csprojResolveAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\ConsoleApplicationEDM.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\bin\Debug\EntityFramework.SqlServer.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\ConsoleApplicationEDM\ConsoleApplicationEDM\obj\Debug\ConsoleApplicationEDM.pdb

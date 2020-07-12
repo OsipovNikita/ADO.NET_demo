@@ -1,0 +1,36 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Form1.resources
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Properties.Resources.resources
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\Практика_Practices\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.exe
+E:\Лим\for lean\for_ADO\ADOnetMy\Практика_Practices\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\Практика_Practices\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.exe
+E:\Лим\for lean\for_ADO\ADOnetMy\Практика_Practices\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\Практика_Practices\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for_ADO\ADOnetMy\Практика_Practices\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Form1.resources
+E:\Лим\for lean\for_ADO\ADOnetMy\Практика_Practices\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Properties.Resources.resources
+E:\Лим\for lean\for_ADO\ADOnetMy\Практика_Practices\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2.csproj.GenerateResource.Cache
+D:\fo lean\for ADO\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.exe
+D:\fo lean\for ADO\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.pdb
+D:\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.exe
+D:\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.pdb
+D:\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.exe
+D:\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.pdb
+D:\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2.csprojResolveAssemblyReference.cache
+D:\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Form1.resources
+D:\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Properties.Resources.resources
+D:\ADOnetMy\demo_my\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2.csproj.GenerateResource.Cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Form1.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.pdb

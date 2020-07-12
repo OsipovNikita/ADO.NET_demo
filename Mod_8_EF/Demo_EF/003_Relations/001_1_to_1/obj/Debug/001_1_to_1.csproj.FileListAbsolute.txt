@@ -1,0 +1,32 @@
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.exe.config
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.exe
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.pdb
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.exe
+C:\Users\Nazar\Desktop\003_Relations\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.exe.config
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.exe
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.exe
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.csprojResolveAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\bin\Debug\001_1_to_1.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\bin\Debug\EntityFramework.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\bin\Debug\EntityFramework.SqlServer.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\bin\Debug\EntityFramework.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\bin\Debug\EntityFramework.SqlServer.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Relations\001_1_to_1\obj\Debug\001_1_to_1.pdb

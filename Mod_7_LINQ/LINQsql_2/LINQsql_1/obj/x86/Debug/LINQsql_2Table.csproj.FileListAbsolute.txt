@@ -1,0 +1,9 @@
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\bin\Debug\LINQsql_1.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2Table.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Form1.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2Table.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_2Table.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQsql_2\LINQsql_1\obj\x86\Debug\LINQsql_1.pdb

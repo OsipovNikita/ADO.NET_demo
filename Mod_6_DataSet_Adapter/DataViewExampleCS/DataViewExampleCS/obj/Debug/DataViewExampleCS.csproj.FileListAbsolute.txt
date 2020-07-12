@@ -1,0 +1,20 @@
+C:\Users\user\Documents\Microsoft Press\MCTS Self-Paced Training Kit Exam 70-526\Chapter 7\DataViewExampleCS\DataViewExampleCS\bin\Debug\DataViewExampleCS.exe.config
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\bin\Debug\DataViewExampleCS.exe.config
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\bin\Debug\DataViewExampleCS.exe
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\bin\Debug\DataViewExampleCS.pdb
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.csprojResolveAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.Form1.resources
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.csproj.GenerateResource.Cache
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.exe
+D:\fo lean\ADOnetMy\demo_my\m4\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\bin\Debug\DataViewExampleCS.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\bin\Debug\DataViewExampleCS.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\bin\Debug\DataViewExampleCS.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.Form1.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\DataViewExampleCS\DataViewExampleCS\obj\Debug\DataViewExampleCS.pdb

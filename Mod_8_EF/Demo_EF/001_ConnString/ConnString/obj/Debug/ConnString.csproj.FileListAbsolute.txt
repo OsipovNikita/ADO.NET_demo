@@ -1,0 +1,38 @@
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\obj\Debug\ConsoleApplication6.exe
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\MyDatabaseConn.mdf
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\MyDatabaseConn_log.ldf
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.exe
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\Desktop\002_Fundamentals EF_6\001_ConnString\ConnString\obj\Debug\ConnString.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\obj\Debug\ConsoleApplication6.exe
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\MyDatabaseConn.mdf
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\MyDatabaseConn_log.ldf
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.exe
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\Dropbox\My folder\Entity_Framework_6\002_Fundamentals EF_6\001_ConnString\ConnString\obj\Debug\ConnString.csprojResolveAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\MyDatabaseConn.mdf
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\MyDatabaseConn_log.ldf
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\ConsoleApplication6.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\EntityFramework.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\EntityFramework.SqlServer.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\EntityFramework.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\bin\Debug\EntityFramework.SqlServer.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\obj\Debug\ConnString.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\obj\Debug\ConnString.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\obj\Debug\ConnString.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\obj\Debug\ConsoleApplication6.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\001_ConnString\ConnString\obj\Debug\ConsoleApplication6.pdb

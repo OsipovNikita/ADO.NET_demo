@@ -1,0 +1,27 @@
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\bin\Debug\001_Code_First.exe.config
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\bin\Debug\001_Code_First.exe
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\bin\Debug\001_Code_First.pdb
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\bin\Debug\EntityFramework.dll
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\bin\Debug\EntityFramework.xml
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\obj\Debug\001_Code_First.csprojResolveAssemblyReference.cache
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\obj\Debug\001_Code_First.exe
+C:\Users\Nazar\Desktop\Entity_Framework\001_Intro_Entity_Framework\002_Model_First\Code_First\001_Code_First\obj\Debug\001_Code_First.pdb
+\\atec\student\Work\ADO.NET_курс\ADO.NET_курс\demo_my\Demo_EF\003_Code_First\001_Code_First\bin\Debug\001_Code_First.exe.config
+\\atec\student\Work\ADO.NET_курс\ADO.NET_курс\demo_my\Demo_EF\003_Code_First\001_Code_First\obj\Debug\001_Code_First.exe
+\\atec\student\Work\ADO.NET_курс\ADO.NET_курс\demo_my\Demo_EF\003_Code_First\001_Code_First\obj\Debug\001_Code_First.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\bin\Debug\001_Code_First.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\bin\Debug\001_Code_First.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\bin\Debug\001_Code_First.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\bin\Debug\EntityFramework.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\bin\Debug\EntityFramework.SqlServer.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\bin\Debug\EntityFramework.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\bin\Debug\EntityFramework.SqlServer.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\bin\Debug\ru\EntityFramework.resources.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\obj\Debug\001_Code_First.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\obj\Debug\001_Code_First.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\obj\Debug\001_Code_First.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\obj\Debug\001_Code_First.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\Demo_EF\003_Code_First\001_Code_First\obj\Debug\001_Code_First.pdb

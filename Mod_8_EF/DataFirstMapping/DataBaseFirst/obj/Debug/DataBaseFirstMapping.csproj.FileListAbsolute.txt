@@ -1,0 +1,20 @@
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe.config
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\EntityFramework.dll
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\EntityFramework.xml
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\obj\Debug\DataBaseFirstMapping.csprojResolveAssemblyReference.cache
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\obj\Debug\DataBaseFirst.exe
+c:\users\осипов\documents\visual studio 2012\Projects\CodeFirst\DataBaseFirst\obj\Debug\DataBaseFirst.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\bin\Debug\DataBaseFirst.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\bin\Debug\DataBaseFirst.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\bin\Debug\EntityFramework.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\bin\Debug\EntityFramework.xml
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\bin\Debug\ru\EntityFramework.resources.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\obj\Debug\DataBaseFirstMapping.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\obj\Debug\DataBaseFirstMapping.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\obj\Debug\DataBaseFirstMapping.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\obj\Debug\DataBaseFirst.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_8_EF\DataFirstMapping\DataBaseFirst\obj\Debug\DataBaseFirst.pdb

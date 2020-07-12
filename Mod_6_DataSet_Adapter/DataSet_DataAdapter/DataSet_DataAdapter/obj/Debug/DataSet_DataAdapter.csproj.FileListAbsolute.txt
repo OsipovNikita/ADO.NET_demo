@@ -1,0 +1,10 @@
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\bin\Debug\DataSet_DataAdapter.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\bin\Debug\DataSet_DataAdapter.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\bin\Debug\DataSet_DataAdapter.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\obj\Debug\DataSet_DataAdapter.Form1.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\obj\Debug\DataSet_DataAdapter.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\obj\Debug\DataSet_DataAdapter.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\obj\Debug\DataSet_DataAdapter.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\obj\Debug\DataSet_DataAdapter.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\obj\Debug\DataSet_DataAdapter.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\DataSet_DataAdapter\DataSet_DataAdapter\obj\Debug\DataSet_DataAdapter.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\Linq_Student\Linq_Student\bin\Debug\Linq_Student.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\Linq_Student\Linq_Student\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\Linq_Student\Linq_Student\obj\x86\Debug\Linq_Student.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика\Linq_Student\Linq_Student\obj\x86\Debug\Linq_Student.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика_Practices\Linq_Student\Linq_Student\obj\x86\Debug\Linq_Student.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\Практика_Practices\Linq_Student\Linq_Student\obj\x86\Debug\Linq_Student.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Linq_Student\Linq_Student\obj\x86\Debug\Linq_Student.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Linq_Student\Linq_Student\obj\x86\Debug\Linq_Student.pdb

@@ -1,0 +1,23 @@
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationMy\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.exe.config
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationMy\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.exe
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationMy\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.pdb
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationMy\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.csprojResolveAssemblyReference.cache
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationMy\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.exe
+c:\users\bayes\documents\visual studio 2015\Projects\ConsoleApplicationMy\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.exe.config
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\ConsoleApplicationDBML\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.exe
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\ConsoleApplicationDBML\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.exe
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\ConsoleApplicationDBML\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\Northwind.mdf
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\Northwind_log.ldf
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\Northwind.mdf
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\Northwind_log.ldf
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\bin\Debug\ConsoleApplicationMy.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\ConsoleApplicationDBML\ConsoleApplicationMy\obj\Debug\ConsoleApplicationMy.pdb

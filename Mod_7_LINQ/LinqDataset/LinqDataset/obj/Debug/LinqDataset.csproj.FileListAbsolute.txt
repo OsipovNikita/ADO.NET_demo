@@ -1,0 +1,26 @@
+c:\users\осипов\documents\visual studio 2012\Projects\LinqDataset\LinqDataset\bin\Debug\LinqDataset.exe.config
+c:\users\осипов\documents\visual studio 2012\Projects\LinqDataset\LinqDataset\bin\Debug\LinqDataset.exe
+c:\users\осипов\documents\visual studio 2012\Projects\LinqDataset\LinqDataset\bin\Debug\LinqDataset.pdb
+c:\users\осипов\documents\visual studio 2012\Projects\LinqDataset\LinqDataset\obj\Debug\LinqDataset.csprojResolveAssemblyReference.cache
+c:\users\осипов\documents\visual studio 2012\Projects\LinqDataset\LinqDataset\obj\Debug\LinqDataset.exe
+c:\users\осипов\documents\visual studio 2012\Projects\LinqDataset\LinqDataset\obj\Debug\LinqDataset.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\LinqDataset\LinqDataset\bin\Debug\LinqDataset.exe.config
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\LinqDataset\LinqDataset\obj\Debug\LinqDataset.exe
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\LinqDataset\LinqDataset\obj\Debug\LinqDataset.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\LinqDataset\LinqDataset\bin\Debug\LinqDataset.exe
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\LinqDataset\LinqDataset\bin\Debug\LinqDataset.pdb
+E:\Лим\for lean\for_ADO\ADOnetMy\demo_my\LinqDataset\LinqDataset\obj\Debug\LinqDataset.csprojResolveAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\LinqDataset\LinqDataset\bin\Debug\LinqDataset.exe.config
+D:\fo lean\ADOnetMy\demo_my\LinqDataset\LinqDataset\bin\Debug\LinqDataset.exe
+D:\fo lean\ADOnetMy\demo_my\LinqDataset\LinqDataset\bin\Debug\LinqDataset.pdb
+D:\fo lean\ADOnetMy\demo_my\LinqDataset\LinqDataset\obj\Debug\LinqDataset.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\LinqDataset\LinqDataset\obj\Debug\LinqDataset.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\LinqDataset\LinqDataset\obj\Debug\LinqDataset.exe
+D:\fo lean\ADOnetMy\demo_my\LinqDataset\LinqDataset\obj\Debug\LinqDataset.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LinqDataset\LinqDataset\bin\Debug\LinqDataset.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LinqDataset\LinqDataset\bin\Debug\LinqDataset.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LinqDataset\LinqDataset\bin\Debug\LinqDataset.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LinqDataset\LinqDataset\obj\Debug\LinqDataset.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LinqDataset\LinqDataset\obj\Debug\LinqDataset.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LinqDataset\LinqDataset\obj\Debug\LinqDataset.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LinqDataset\LinqDataset\obj\Debug\LinqDataset.pdb

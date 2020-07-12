@@ -1,0 +1,16 @@
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.1\obj\Debug\Example 5.1.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.1\obj\Debug\Example 5.1.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.1\bin\Debug\Example 5.1.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.1\bin\Debug\Example 5.1.pdb
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.1\obj\Debug\Example_5_1.Properties.Resources.resources
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 5(m3)\C#\Example 5.1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.1\bin\Debug\Example 5.1.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.1\bin\Debug\Example 5.1.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.1\bin\Debug\Example 5.1.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.1\obj\Debug\Example_5_1.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.1\obj\Debug\Example 5.1.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.1\obj\Debug\Example 5.1.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.1\obj\Debug\Example 5.1.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_3_Command\Chapter 5(m3)\C#\Example 5.1\obj\Debug\Example 5.1.pdb

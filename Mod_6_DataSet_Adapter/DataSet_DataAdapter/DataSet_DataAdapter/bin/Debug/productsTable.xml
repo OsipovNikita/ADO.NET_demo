@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Products>
+    <ProductID>13</ProductID>
+    <ProductName>Konbu</ProductName>
+    <SupplierID>6</SupplierID>
+    <CategoryID>8</CategoryID>
+    <QuantityPerUnit>2 kg box</QuantityPerUnit>
+    <UnitPrice>6.0000</UnitPrice>
+    <UnitsInStock>24</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>5</ReorderLevel>
+    <Discontinued>false</Discontinued>
+  </Products>
+  <Products>
+    <ProductID>19</ProductID>
+    <ProductName>Teatime Chocolate Biscuits</ProductName>
+    <SupplierID>8</SupplierID>
+    <CategoryID>3</CategoryID>
+    <QuantityPerUnit>10 boxes x 12 pieces</QuantityPerUnit>
+    <UnitPrice>9.2000</UnitPrice>
+    <UnitsInStock>2500</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>5</ReorderLevel>
+    <Discontinued>false</Discontinued>
+  </Products>
+  <Products>
+    <ProductID>23</ProductID>
+    <ProductName>Tunnbröd</ProductName>
+    <SupplierID>9</SupplierID>
+    <CategoryID>5</CategoryID>
+    <QuantityPerUnit>12 - 250 g pkgs.</QuantityPerUnit>
+    <UnitPrice>9.0000</UnitPrice>
+    <UnitsInStock>6100</UnitsInStock>
+    <UnitsOnOrder>0</UnitsOnOrder>
+    <ReorderLevel>25</ReorderLevel>
+    <Discontinued>false</Discontinued>
+  </Products>
+</DocumentElement>

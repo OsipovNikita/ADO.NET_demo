@@ -1,0 +1,17 @@
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.6\bin\Debug\Example 6.6.exe
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.6\bin\Debug\Example 6.6.pdb
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.6\obj\Debug\ResolveAssemblyReference.cache
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example_6_6.Properties.Resources.resources
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.6\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.6\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example 6.6.exe
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example 6.6.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\bin\Debug\Example 6.6.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\bin\Debug\Example 6.6.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\bin\Debug\Example 6.6.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example_6_6.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example 6.6.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example 6.6.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example 6.6.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example 6.6.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 6(4)\C#\Example 6.6\obj\Debug\Example 6.6.csprojAssemblyReference.cache

@@ -1,0 +1,21 @@
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.exe
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.pdb
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\bin\Debug\Exercise 7.4.exe
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\bin\Debug\Exercise 7.4.pdb
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\ResolveAssemblyReference.cache
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise_7_4.Form1.resources
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise_7_4.Properties.Resources.resources
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Осипов\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.exe
+C:\Documents and Settings\HP Compaq\My Documents\for lean\for ADO\ADOnetMy\demo_my\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\bin\Debug\Exercise 7.4.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\bin\Debug\Exercise 7.4.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\bin\Debug\Exercise 7.4.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise_7_4.Form1.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise_7_4.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_6_DataSet_Adapter\Chapter 7(6)\C#\Exercise 7.4\obj\Debug\Exercise 7.4.pdb

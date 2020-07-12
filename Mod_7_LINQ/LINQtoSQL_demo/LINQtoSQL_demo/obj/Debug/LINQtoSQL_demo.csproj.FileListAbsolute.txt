@@ -1,0 +1,21 @@
+C:\Users\niko\source\repos\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.exe.config
+C:\Users\niko\source\repos\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.exe
+C:\Users\niko\source\repos\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.pdb
+C:\Users\niko\source\repos\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.csprojAssemblyReference.cache
+C:\Users\niko\source\repos\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.csproj.CoreCompileInputs.cache
+C:\Users\niko\source\repos\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.exe
+C:\Users\niko\source\repos\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.pdb
+D:\fo lean\ADOnetMy\demo_my\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.exe.config
+D:\fo lean\ADOnetMy\demo_my\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.exe
+D:\fo lean\ADOnetMy\demo_my\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.pdb
+D:\fo lean\ADOnetMy\demo_my\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.exe
+D:\fo lean\ADOnetMy\demo_my\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQtoSQL_demo\LINQtoSQL_demo\bin\Debug\LINQtoSQL_demo.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_7_LINQ\LINQtoSQL_demo\LINQtoSQL_demo\obj\Debug\LINQtoSQL_demo.pdb

@@ -1,0 +1,22 @@
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\obj\Debug\EditData.exe
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\obj\Debug\EditData.pdb
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\bin\Debug\EditData.exe
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\bin\Debug\EditData.pdb
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\bin\Debug\CreateDataSet.dll
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\bin\Debug\CreateDataSet.pdb
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\obj\Debug\EditData.csprojResolveAssemblyReference.cache
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\obj\Debug\EditData.Properties.Resources.resources
+F:\ADOnetMy\demo_my\Chapter 8(4)\C#\EditData\obj\Debug\EditData.csproj.GenerateResource.Cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\bin\Debug\EditData.exe.config
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\bin\Debug\EditData.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\bin\Debug\EditData.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\bin\Debug\CreateDataSet.dll
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\bin\Debug\CreateDataSet.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\obj\Debug\EditData.csprojAssemblyReference.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\obj\Debug\EditData.Properties.Resources.resources
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\obj\Debug\EditData.csproj.GenerateResource.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\obj\Debug\EditData.csproj.CoreCompileInputs.cache
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\obj\Debug\EditData.csproj.CopyComplete
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\obj\Debug\EditData.exe
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\obj\Debug\EditData.pdb
+D:\fo lean\ADOnetMy\demo_my\ADO_Demo2020\Mod_4_DataSet\Chapter 8(4)\C#\EditData\obj\Debug\EditData.Form1.resources
